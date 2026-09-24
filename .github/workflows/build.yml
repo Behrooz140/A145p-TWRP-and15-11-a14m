@@ -26,7 +26,7 @@ jobs:
           USER_NAME: 'Behrooz140'
           USER_EMAIL: 'behiahmadi6@gmail.com'
 
-          DEVICE_TREE: 'https://github.com/Behrooz140/twrp_device_samsung_a14'
+          DEVICE_TREE: 'https://github.com/Behrooz140/A145p-TWRP-and15-11-a14m'
           DEVICE_TREE_BRANCH: 'main'
 
           DEVICE_PATH: 'device/samsung/a14m'
